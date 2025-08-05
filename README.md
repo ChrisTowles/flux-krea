@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ```
 git clone https://github.com/krea-ai/flux-krea.git
-cd kflux
+cd flux-krea
 uv sync
 ```
 
